@@ -1,0 +1,75 @@
+body {
+  background-image: url(../image/pexels-markus-spiske-9653451.jpg);
+  background-position: center;
+  background-size: cover;
+  color: #212121;
+  font-weight: bolder;
+  font-size: large;
+  font-family: monospace;
+}
+.content {
+  background-color: #e7e7de;
+  position: relative;
+  width: 40%;
+  height: 950px;
+  border-style: solid;
+  border-color: #f35345;
+  border-radius: 10px;
+  margin: auto;
+}
+.nav-bar {
+  width: 99%;
+  height: 41px;
+  margin: auto;
+  margin-top: 3px;
+  background-color: #f35345;
+  border-radius: 4px;
+}
+i {
+  position: relative;
+  left: 10px;
+  top: 5px;
+}
+.icon-a {
+  text-decoration: none;
+  color: black;
+}
+#user {
+  position: relative;
+  left: 50px;
+}
+#to-do {
+  position: relative;
+  left: 100px;
+}
+#add-post {
+  position: relative;
+  left: 540px;
+}
+#email {
+  position: relative;
+  left: 490px;
+}
+#search-id {
+  position: relative;
+  left: 260px;
+  bottom: 38px;
+  width: 240px;
+  border-radius: 4px;
+}
+#submit-button {
+  position: relative;
+  left: 240px;
+  bottom: 35px;
+  border-style: none;
+  background: none;
+  font-size: 16px;
+}
+.wall {
+  position: relative;
+  width: 98%;
+  margin: auto;
+  border-radius: 5px;
+  border-color: #f35345;
+  border-style: solid;
+}

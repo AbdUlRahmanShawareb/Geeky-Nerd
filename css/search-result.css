@@ -1,0 +1,10 @@
+.search-result{
+    position: relative;
+    top: 10px;
+    width: 98%;
+    height: 880px;;
+    margin: auto;
+    border-color: #f35345;
+    border-radius: 5px;
+    border-style: solid;
+}

@@ -1,0 +1,48 @@
+.edit-profile {
+  position: relative;
+  top: 10px;
+  width: 98%;
+  height: 885px;
+  margin: auto;
+  border-style: solid;
+  border-color: #f35345;
+  border-radius: 10px;
+  overflow: auto;
+}
+hr {
+  border: 5px solid #f35345;
+  border-radius: 5px;
+  width: 97%;
+  margin: auto;
+}
+.edit-form {
+  position: relative;
+  left: 5px;
+}
+.pesronal-info {
+  font-size: x-large;
+  font-weight: bolder;
+  color: #f35345;
+}
+.bio {
+  font-size: x-large;
+  font-weight: bolder;
+  color: #f35345;
+}
+.contact-info {
+  font-size: x-large;
+  font-weight: bolder;
+  color: #f35345;
+}
+#bio-feild {
+  position: relative;
+  bottom: 20px;
+  width: 50%;
+  height: 200px;
+}
+.edit-submit {
+  font-size: 24px;
+  background-color: #f35345;
+  color: #212121;
+  border-radius: 5px;
+}

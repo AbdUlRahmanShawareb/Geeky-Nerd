@@ -1,0 +1,48 @@
+body {
+  background-image: url(../image/pexels-markus-spiske-9653451.jpg);
+  background-position: center;
+  background-size: cover;
+  color: #212121;
+  font-weight: bolder;
+  font-size: large;
+  font-family: monospace;
+}
+.content {
+  background-color: #e7e7de;
+  position: relative;
+  width: 40%;
+  height: 550px;
+  border-style: solid;
+  border-color: #f35345;
+  border-radius: 10px;
+  margin: auto;
+  top: 175px;
+}
+.logo {
+  position: relative;
+  left: 25px;
+  bottom: 50px;
+}
+.log-in-div {
+  position: relative;
+  left: 235px;
+  bottom: 150px;
+}
+.log-in-form {
+  font-size: xx-large;
+}
+input {
+  border-radius: 5px;
+  font-size: 16px;
+}
+.email {
+  position: relative;
+  left: 47px;
+}
+.submit-button {
+  position: relative;
+  color: #212121;
+  font-size: 24px;
+  background-color: #f35345;
+  width: 350px;
+}

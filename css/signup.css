@@ -1,0 +1,60 @@
+body {
+  background-image: url(../image/pexels-markus-spiske-9653451.jpg);
+  background-position: center;
+  background-size: cover;
+  color: #212121;
+  font-weight: bolder;
+  font-size: large;
+  font-family: monospace;
+}
+.content {
+  background-color: #e7e7de;
+  position: relative;
+  width: 40%;
+  height: 650px;
+  border-style: solid;
+  border-color: #f35345;
+  border-radius: 10px;
+  margin: auto;
+  top: 130px;
+}
+.logo {
+  position: relative;
+  left: 25px;
+  bottom: 50px;
+}
+hr {
+  position: relative;
+  bottom: 175px;
+  width: 96%;
+  border: 5px solid #f35345;
+  border-radius: 5px;
+}
+.signup {
+  position: relative;
+  left: 175px;
+  bottom: 125px;
+  font-size: xx-large;
+}
+input {
+  border-radius: 5px;
+  font-size: 20px;
+}
+#name-field {
+  position: relative;
+  left: 60px;
+}
+#email-feild {
+  position: relative;
+  left: 47px;
+}
+.submit {
+  width: 432px;
+  color: #212121;
+  font-size: 24px;
+  background-color: #f35345;
+}
+.php-output {
+  position: relative;
+  color: rgb(10, 150, 45);
+}

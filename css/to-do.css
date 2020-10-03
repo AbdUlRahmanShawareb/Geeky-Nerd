@@ -1,0 +1,22 @@
+.add-task {
+  position: relative;
+  left: 10px;
+  top: 10px;
+}
+#task-feild {
+  width: 670px;
+  font-size: 24px;
+}
+#add-button {
+  position: relative;
+  right: 8px;
+  background: none;
+  border: none;
+  color: #f35345;
+}
+hr {
+  position: relative;
+  width: 96%;
+  border: 5px solid #f35345;
+  border-radius: 5px;
+}

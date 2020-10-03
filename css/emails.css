@@ -1,0 +1,58 @@
+.send-email-div {
+  position: relative;
+  top: 5px;
+  width: 98%;
+  height: 300px;
+  margin: auto;
+  border-style: solid;
+  border-color: #f35345;
+  border-radius: 5px;
+}
+.send-email-form {
+  position: relative;
+  top: 10px;
+  left: 5px;
+  font-size: x-large;
+}
+#email-feild {
+  position: relative;
+  left: 60px;
+}
+input {
+  width: 50%;
+}
+#content-feild {
+  width: 98%;
+  height: 100px;
+  margin: auto;
+}
+.send {
+  position: relative;
+  bottom: 5px;
+  color: #212121;
+  font-size: 24px;
+  background-color: #f35345;
+  border-radius: 5px;
+}
+hr {
+  position: relative;
+  top: 10px;
+  width: 96%;
+  border: 5px solid #f35345;
+  border-radius: 5px;
+}
+.your-emails{
+  position: relative;
+  left: 10px;
+  font-size: xx-large;
+}
+.all-emails{
+  position: relative;
+  width: 98%;
+  height: 450px;
+  top: 5px;
+  margin: auto;
+  border-style: solid;
+  border-color: #f35345;
+  border-radius: 5px;
+}
